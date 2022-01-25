@@ -19,7 +19,7 @@ const Content = () => {
   
 
   return (
-    <main className='flex-1 flex-col border-r border-l border-gray-extraLight'>
+    <main className='flex-1 flex-col border-r border-l border-gray-extraLight mr-10'>
       <header className='sticky top-0 z-10 flex items-center justify-between p-4 border-b bg-white'>
         <span className='font-bold text-xl text-gray-900'>Home</span>
         <PopulerIcon className='w-5 h-5 text-primary-base'/>
