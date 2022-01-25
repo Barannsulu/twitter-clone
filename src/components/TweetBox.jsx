@@ -21,7 +21,7 @@ function TweetBox() {
           "https://pbs.twimg.com/profile_images/1406768364693987330/hpGf9Ove_400x400.jpg",
       });
 
-      setContent("");
+      
     }
   };
 
