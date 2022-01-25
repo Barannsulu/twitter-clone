@@ -57,7 +57,8 @@ function TweetBox() {
                     </div>    
                 </div>    
                 <button
-                    className='bg-primary-base rounded-full text-white px-4 py-2 mt-2' >Tweet</button>
+                    className='bg-primary-base rounded-full text-white px-4 py-2 mt-2' >Tweet
+                </button>
             </div>
         </div>
   )
