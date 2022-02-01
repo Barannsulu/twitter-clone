@@ -1,5 +1,5 @@
 # Demo Link
- https://lnkd.in/dNReHamr
+ https://react-twitterclone1.netlify.app/
 
 # Getting Started with Create React App
 
