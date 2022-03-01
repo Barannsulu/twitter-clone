@@ -1,5 +1,9 @@
-# Demo Link
- https://react-twitterclone1.netlify.app/
+
+## Twitter Demo Link
+
+You can view the site here
+[Click Me](https://react-twitterclone1.netlify.app/)
+
 
 # Getting Started with Create React App
 
